@@ -1,6 +1,5 @@
 module.exports = {
     apps: [
-
         {
             name: "config-server",
             script: "java",
