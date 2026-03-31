@@ -4,6 +4,3 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/misharasandalidesilva/Clothing-shop-platform-api-gateway.git
-[submodule "config-server"]
-	path = config-server/config-server
-	url = https://github.com/misharasandalidesilva/Clothing-shop-platform-config-server.git
