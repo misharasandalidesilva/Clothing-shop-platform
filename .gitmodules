@@ -6,3 +6,6 @@
 	url = https://github.com/misharasandalidesilva/Clothing-shop-platform-api-gateway.git
 
 
+[submodule "config-servers"]
+	path = config-servers
+	url = https://github.com/misharasandalidesilva/Clothing-shop-platform-config-server.git
